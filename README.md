@@ -1,1 +1,2 @@
-# Embedded_linux
+# Speech recognition project
+This is one of my important embedded linux projects, and this is...
